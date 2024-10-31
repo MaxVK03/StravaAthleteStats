@@ -1,13 +1,8 @@
 from fastapi import FastAPI
+from routers.activity_routes import router as activity_routes
 
 app = FastAPI()
 
+app.include_router(activity_routes)
+# app.include_router(power_routes)
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
-
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}

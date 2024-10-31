@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="" />
+    <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/power_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/activity_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,15 +22,16 @@
       <list>
         <option value="FastAPI main" />
         <option value="FastAPI test_main" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oCxSPqFjZNRLZIU7NiBIOtzF55" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +44,7 @@
     "FastAPI.athleteStats.executor": "Run",
     "HTTP Request.test_main | #1.executor": "Run",
     "HTTP Request.test_main | #2.executor": "Run",
+    "Python.generate_api_key.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -47,11 +56,34 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="FastAPI.athleteStats">
+  <component name="RunManager" selected="Python.generate_api_key">
     <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="test_main | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_api_key" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="athleteStats" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stravaAPIManagement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="athleteStats" type="Python.FastAPI">
@@ -71,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generate_api_key" />
         <item itemvalue="HTTP Request.test_main | #2" />
         <item itemvalue="HTTP Request.test_main | #1" />
       </list>
@@ -91,14 +124,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730387358273</updated>
-      <workItem from="1730387360405" duration="1284000" />
+      <workItem from="1730387360405" duration="3325000" />
+      <workItem from="1730399033322" duration="1888000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/athleteStats$athleteStats.coverage" NAME="athleteStats Coverage Results" MODIFIED="1730388082155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/athleteStats$generate_api_key.coverage" NAME="generate_api_key Coverage Results" MODIFIED="1730400985337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stravaAPIManagement" />
+    <SUITE FILE_PATH="coverage/athleteStats$athleteStats.coverage" NAME="athleteStats Coverage Results" MODIFIED="1730389127633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
