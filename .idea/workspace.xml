@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/power_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/activity_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/athletestatsapp/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/activity_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/power_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/power_routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" beforeDir="false" afterPath="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +47,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2oCxSPqFjZNRLZIU7NiBIOtzF55" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,22 +64,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "FastAPI.athleteStats.executor": "Run",
     "HTTP Request.test_main | #1.executor": "Run",
     "HTTP Request.test_main | #2.executor": "Run",
     "Python.generate_api_key.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "frontendDev",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.generate_api_key">
+  <component name="RunManager" selected="HTTP Request.test_main | #1">
     <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -103,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.test_main | #1" />
         <item itemvalue="Python.generate_api_key" />
         <item itemvalue="HTTP Request.test_main | #2" />
-        <item itemvalue="HTTP Request.test_main | #1" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +152,8 @@
       <updated>1730387358273</updated>
       <workItem from="1730387360405" duration="3325000" />
       <workItem from="1730399033322" duration="1888000" />
+      <workItem from="1730476601309" duration="2326000" />
+      <workItem from="1730714186121" duration="5389000" />
     </task>
     <servers />
   </component>
@@ -143,8 +171,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/athleteStats$generate_api_key.coverage" NAME="generate_api_key Coverage Results" MODIFIED="1730400985337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stravaAPIManagement" />
+    <SUITE FILE_PATH="coverage/athleteStats$main.coverage" NAME="main Coverage Results" MODIFIED="1730724403537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/athleteStats$athleteStats.coverage" NAME="athleteStats Coverage Results" MODIFIED="1730389127633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
