@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/AppRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/ActivityCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/ActivityCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/Images/appCardBG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/hooks/useRecentActivity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/ActivityDetailsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/HomePage/HomePage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/HomePage/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/SearchPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/services/activityService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/activity_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/power_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/metrics.py" afterDir="false" />
-    </list>
+    <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +137,7 @@
       <workItem from="1730387360405" duration="3325000" />
       <workItem from="1730399033322" duration="1888000" />
       <workItem from="1730815113075" duration="15569000" />
-      <workItem from="1730896081461" duration="1381000" />
+      <workItem from="1730896081461" duration="1796000" />
     </task>
     <servers />
   </component>
