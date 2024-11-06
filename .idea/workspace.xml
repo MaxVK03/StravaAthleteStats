@@ -5,12 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57ea9eca-3c94-4dc3-84be-12b660ac3235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/power_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/activity_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stravaAPIManagement/generate_api_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/ActivityCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/ActivityCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/Images/appCardBG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/ActivityDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/hooks/useRecentActivity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/ActivityDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/HomePage/HomePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/HomePage/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/pages/SearchPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/athletestatsapp/src/services/activityService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/athletestatsapp/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/activity_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/activity_routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/power_routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/metrics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,33 +58,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2oCxSPqFjZNRLZIU7NiBIOtzF55" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;FastAPI.athleteStats.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.test_main | #1.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.test_main | #2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_api_key.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "FastAPI.athleteStats.executor": "Run",
+    "HTTP Request.test_main | #1.executor": "Run",
+    "HTTP Request.test_main | #2.executor": "Run",
+    "Python.generate_api_key.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing backendDev",
+    "last_opened_file_path": "/home/maxvk/PycharmProjects/athleteStats/athletestatsapp/src/Images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/maxvk/.local/share/JetBrains/Toolbox/apps/pycharm-professional/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/athletestatsapp/src/Images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard" />
+      <recent name="$PROJECT_DIR$/athletestatsapp/src/components" />
+      <recent name="$PROJECT_DIR$/athletestatsapp/src/pages/HomePage" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.generate_api_key">
     <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
@@ -126,6 +172,8 @@
       <updated>1730387358273</updated>
       <workItem from="1730387360405" duration="3325000" />
       <workItem from="1730399033322" duration="1888000" />
+      <workItem from="1730815113075" duration="15569000" />
+      <workItem from="1730896081461" duration="1381000" />
     </task>
     <servers />
   </component>
@@ -143,8 +191,20 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/athletestatsapp/src/components/ActivityCard/ActivityCard.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/athleteStats$generate_api_key.coverage" NAME="generate_api_key Coverage Results" MODIFIED="1730400985337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stravaAPIManagement" />
+    <SUITE FILE_PATH="coverage/athleteStats$main.coverage" NAME="main Coverage Results" MODIFIED="1730724403537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/athleteStats$generate_api_key.coverage" NAME="generate_api_key Coverage Results" MODIFIED="1730729623754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stravaAPIManagement" />
     <SUITE FILE_PATH="coverage/athleteStats$athleteStats.coverage" NAME="athleteStats Coverage Results" MODIFIED="1730389127633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
