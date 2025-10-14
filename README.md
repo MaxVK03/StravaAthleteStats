@@ -1,6 +1,6 @@
 # StravaAthleteStats
 
-An app to further analyse athlete data pulled from strava specifically built for cyclist data junkies.
+An app to further analyse athlete data pulled from strava specifically built for cyclist data junkies. Ultimatley shelved due to discovery of Intervals.icu
 
 Current projects are 
 ## Heart rate drift
